@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import seaborn as sns
 # # #!conda install python-snappy --y
-# # #!conda update -n base conda --y
+#  #!conda update -n base conda --y
 
 import s3fs
 import fastparquet as fp
